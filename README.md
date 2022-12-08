@@ -1,16 +1,38 @@
-### Hi there 👋
 
-<!--
-**limjiahau/limjiahau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I'm a undergraduate student in Nanyang Technological Univeristy, graduating in 2024.
 
-Here are some ideas to get you started:
+Currently exploring the realm of Data Science, Machine Learning, Artificial Intelligence, and Cloud Computing ☁️.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+While building up my technical competency, I hope to eventually venture into a career which contributes to the public good!
+
+
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/limjiahau/)
+
+
+
+## 🛠 Skills
+- Python 
+- SQL
+- R
+- Statistics
+- Machine Learning
+- Deep Learning
+- Artificial Intelligence
+- Data Science
+
+## Summary Of My Journey
+👩‍💻 Started off as an Air Force Engineer 
+
+🧠 Currently pursuing my B.Eng in Mechanical Engineering (First Class with Highest Distinction)
+
+👯‍♀️ Hope to pursue a career in tech for public good and 
+
+🤔 a Master's in Computer Science (if given the opportunity)
+
+📫 josephlimjiahau@gmail.com
+
+😄 He/Him
+
+💬 More details loading...
