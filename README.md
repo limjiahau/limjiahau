@@ -1,6 +1,5 @@
 
 ## 🚀 About Me
-I'm a undergraduate student in Nanyang Technological Univeristy, graduating in 2024.
 
 Currently exploring the realm of Data Science, Machine Learning, Artificial Intelligence, and Cloud Computing ☁️.
 
@@ -23,7 +22,7 @@ While building up my technical competency, I hope to eventually venture into a c
 - Data Science
 
 ## Summary Of My Journey
-👩‍💻 Started off as an Air Force Engineer 
+👩‍💻 Started off as an Air Force Engineer ✈️
 
 🧠 Currently pursuing my B.Eng in Mechanical Engineering (First Class with Highest Distinction)
 
