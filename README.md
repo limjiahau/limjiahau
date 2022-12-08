@@ -1,7 +1,7 @@
 
 ## 🚀 About Me
 
-Currently exploring the realm of Data Science, Machine Learning, Artificial Intelligence, and Cloud Computing ☁️.
+Currently building up technical skills in Data Science, Machine Learning, Artificial Intelligence, and Cloud Computing ☁️.
 
 While building up my technical competency, I hope to eventually venture into a career which contributes to the public good!
 
