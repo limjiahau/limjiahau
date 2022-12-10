@@ -26,8 +26,6 @@ While building up my technical competency, I hope to eventually venture into a c
 
 🧠 Currently pursuing my B.Eng in Mechanical Engineering (First Class with Highest Distinction)
 
-👯‍♀️ Looking to pursue a career in tech for public good and 
-
-🤔 a Master's in Computer Science (if given the opportunity)
+👯‍♀️ Looking to pursue a career in tech for public good 
 
 💬 More details loading...
