@@ -22,7 +22,7 @@ Interested in Data Science, Machine Learning, Artificial Intelligence, and Cloud
 ## Summary Of My Journey
 👩‍💻 Started off as an Air Force Engineer ✈️
 
-🧠 Currently pursuing my B.Eng in Mechanical Engineering (First Class with Highest Distinction)
+🧠 Currently pursuing my B.Eng in Mechanical Engineering
 
 👯‍♀️ Looking to pursue a career in tech for public good 
 
