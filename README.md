@@ -22,7 +22,7 @@ Interested in Data Science, Machine Learning, Artificial Intelligence, and Cloud
 ## Summary Of My Journey
 👩‍💻 Started off as an Aircraft Engineer ✈️
 
-🧠 Currently pursuing my B.Eng in Mechanical Engineering
+🧠 Currently studying for my B.Eng in Mechanical Engineering
 
 👯‍♀️ Looking to pursue a career in tech for good 
 
