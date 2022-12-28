@@ -9,7 +9,7 @@ Interested in Data Science, Machine Learning, Artificial Intelligence, and Cloud
 
 
 
-## 🛠 Skills
+## 🛠 Actively Honing Skills 
 - Python 
 - SQL
 - R
