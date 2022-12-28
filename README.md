@@ -9,7 +9,7 @@ Interested in Data Science, Machine Learning, Artificial Intelligence, and Cloud
 
 
 
-## 🛠 Actively Learning 
+## 🛠 Working On
 - Python 
 - SQL
 - R
@@ -20,7 +20,7 @@ Interested in Data Science, Machine Learning, Artificial Intelligence, and Cloud
 - Data Science
 
 ## Summary Of My Journey
-👩‍💻 Started off as an Air Force Engineer ✈️
+👩‍💻 Started off as an Aircraft Engineer ✈️
 
 🧠 Currently pursuing my B.Eng in Mechanical Engineering
 
