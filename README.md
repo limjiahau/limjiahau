@@ -24,6 +24,6 @@ Interested in Data Science, Machine Learning, Artificial Intelligence, and Cloud
 
 🧠 Currently pursuing my B.Eng in Mechanical Engineering
 
-👯‍♀️ Looking to pursue a career in tech for public good 
+👯‍♀️ Looking to pursue a career in tech for good 
 
 💬 More details loading...
