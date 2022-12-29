@@ -7,7 +7,7 @@ Interested in Data Science, Machine Learning, Artificial Intelligence, and Cloud
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/limjiahau/)
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherinempeterson.com/)
-[![kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)(https://www.kaggle.com/jiahaulim)
+(https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)(https://www.kaggle.com/jiahaulim)
 
 ## 🛠 Working On
 - Python 
