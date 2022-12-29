@@ -7,7 +7,7 @@ Interested in Data Science, Machine Learning, Artificial Intelligence, and Cloud
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/limjiahau/)
 
-[![Kaggle]([link to image on GH](https://res.cloudinary.com/dyd911kmh/image/upload/v1647430873/kaggle_logo_icon_168474_4eb653edb6.png))]([link to your URL](https://www.kaggle.com/jiahaulim))
+[![Kaggle]([[link to image on GH](https://res.cloudinary.com/dyd911kmh/image/upload/v1647430873/kaggle_logo_icon_168474_4eb653edb6.png)])]([https://www.kaggle.com/jiahaulim])
 
 ## 🛠 Working On
 - Python 
