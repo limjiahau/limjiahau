@@ -6,6 +6,7 @@ Interested in Data Science, Machine Learning, Artificial Intelligence, and Cloud
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/limjiahau/)
+
 [Kaggle](https://www.kaggle.com/jiahaulim)
 
 
