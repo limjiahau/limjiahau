@@ -4,7 +4,9 @@
 
 A current undergraduate student, majoring in Mechanical Engineering at Nanyang Technological University, gaining experience in data visualizations, programming, machine learning.
 
-Interested in Data Science, Machine Learning, Artificial Intelligence, and Cloud Computing ☁️.
+Most of my Data Science projects are on [Kaggle](https://www.kaggle.com/jiahaulim).
+
+Exploring Data Science, Machine Learning, Artificial Intelligence, and Cloud Computing ☁️.
 
 
 ## 🔗 Links
