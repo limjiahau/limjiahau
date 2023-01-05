@@ -1,4 +1,4 @@
-# Hi, I'm JiaHau! 👋
+# Hi, I'm Joseph! 👋
 
 ## 🚀 About Me
 
