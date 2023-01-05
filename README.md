@@ -2,12 +2,9 @@
 
 ## 🚀 About Me
 
-An undergraduate student, majoring in Mechanical Engineering at Nanyang Technological University, gaining experience in data visualizations, programming, machine learning.
+An undergraduate student, majoring in Mechanical Engineering at Nanyang Technological University, gaining experience in data visualizations, programming, and machine learning.
 
 Most of my Data Science projects are on [Kaggle](https://www.kaggle.com/jiahaulim).
-
-Exploring Data Science, Machine Learning, Artificial Intelligence, and Cloud Computing ☁️.
-
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/limjiahau/)
