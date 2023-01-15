@@ -27,6 +27,6 @@ Most of my Data Science projects are on [Kaggle](https://www.kaggle.com/jiahauli
 
 🧠 Currently studying for my B.Eng in Mechanical Engineering
 
-👯‍♀️ Looking to pursue a career in tech for good 
+👯‍♀️ Want to pursue a career in tech for good 
 
 💬 More details loading...
