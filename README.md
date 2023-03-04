@@ -27,6 +27,6 @@ Check out my other Data Science projects on [Kaggle](https://www.kaggle.com/jiah
 
 🧠 Currently studying for my B.Eng in Mechanical Engineering
 
-👯‍♀️ Want to pursue a career in tech for good and Masters in Computing
+💼 Want to pursue a career in tech for good and Masters in Computing
 
 💬 More details loading...
