@@ -15,7 +15,6 @@ Check out my other Data Science projects on [Kaggle](https://www.kaggle.com/jiah
 ## 🛠 Working On
 - Python 
 - SQL
-- R
 - Statistics
 - Artificial Intelligence/ Machine Learning
 - Deep Learning
