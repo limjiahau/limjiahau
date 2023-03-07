@@ -17,10 +17,9 @@ Check out my other Data Science projects on [Kaggle](https://www.kaggle.com/jiah
 - SQL
 - R
 - Statistics
-- Machine Learning
+- Artificial Intelligence/ Machine Learning
 - Deep Learning
-- Artificial Intelligence
-- Data Science
+
 
 ## Summary Of My Journey
 👩‍💻 Started off as an Aircraft Engineer ✈️
