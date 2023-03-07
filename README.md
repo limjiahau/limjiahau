@@ -21,11 +21,5 @@ Check out my other Data Science projects on [Kaggle](https://www.kaggle.com/jiah
 - Deep Learning
 
 
-## Summary Of My Journey
-👩‍💻 Started off as an Aircraft Engineer ✈️
-
-🧠 Currently studying for my B.Eng in Mechanical Engineering
-
-💼 Want to pursue a career in tech for good and Masters in Computing
-
-💬 More details loading...
+## Future Plans
+👩‍💻 Want to pursue a career in tech for good and Masters in Computing
