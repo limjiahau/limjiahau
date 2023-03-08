@@ -21,4 +21,4 @@ Check out my other Data Science projects on [Kaggle](https://www.kaggle.com/jiah
 
 
 ## Future Plans
-👩‍💻 Want to pursue a career in tech for good and Masters in Computing
+👨‍🎓 Want to pursue a career in tech for good and Masters in Computing
