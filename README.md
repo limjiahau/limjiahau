@@ -9,7 +9,7 @@
   </a>
 </p>
 
-<h2>Check out my website</h2>
+<h2>Website</h2>
 <p>
   <a href="https://limjiahau.streamlit.app/">
     <img height="50" src="https://global-uploads.webflow.com/62014002185c7b256316ef63/6255a1110a24e5de8cfa2536_kn7ucNPv_400x400.png" />
