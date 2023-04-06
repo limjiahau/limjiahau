@@ -45,6 +45,7 @@
     <td>
       <img height="40" src="https://avatars.githubusercontent.com/u/15658638?s=200&v=4" alt="TensorFlow" title="TensorFlow">
       <img height="40" src="https://avatars.githubusercontent.com/u/365630?s=200&v=4" alt="scikit-learn" title="scikit-learn">
+      <img height="50" src="https://user-images.githubusercontent.com/65124287/230393286-71712a09-9400-4447-bec8-436cd5acba48.png" alt="Streamlit" title="Streamlit">
     </td>
   </tr>
 
