@@ -64,6 +64,7 @@
     <td>Software Workflow</td>
     <td>
       <img height="40" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git">
+      <img height="40" src="https://user-images.githubusercontent.com/65124287/230536991-c243f521-8ac4-44c1-92ba-24ea2d1ef77b.png" alt="GitHub" title="GitHub">
     </td>
     <td>
       -
